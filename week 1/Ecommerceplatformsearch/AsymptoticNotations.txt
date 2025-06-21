@@ -1,0 +1,8 @@
+Big O notation is a way to describe how the running time of an algorithm grows as the size of the input increases. It helps us compare the efficiency of different algorithms by focusing on their behavior as inputs get larger.
+
+Big O measures how many times a specific operation or piece of code is executed relative to the input size.
+
+If the number of operations grows linearly with the input size n, the algorithm is said to have a time complexity of O(n).
+
+If the number of operations grows exponentially to the square of the input size, it is O(n^2).
+
